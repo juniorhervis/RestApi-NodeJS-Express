@@ -1,0 +1,875 @@
+2021-09-30T18:08:47.514Z [livraria-api] error POST  - Nome inválido!
+2021-09-30T18:09:13.773Z [livraria-api] error POST  - Unexpected token ' in JSON at position 3
+2021-09-30T18:09:19.390Z [livraria-api] error POST  - Unexpected token n in JSON at position 3
+2021-09-30T18:09:38.224Z [livraria-api] error POST  - Unexpected token n in JSON at position 2
+2021-09-30T18:09:39.716Z [livraria-api] error POST  - Unexpected token n in JSON at position 2
+2021-09-30T18:53:25.274Z [livraria-api] error POST  - Email inválido!
+2021-09-30T18:55:24.421Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-09-30T18:59:15.813Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T12:52:33.644Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T13:03:55.842Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T13:04:16.793Z [livraria-api] info GET /client
+2021-10-01T13:27:29.105Z [livraria-api] error GET  - syntax error at or near "E"
+2021-10-01T13:28:23.776Z [livraria-api] error GET  - syntax error at or near "E"
+2021-10-01T13:29:14.672Z [livraria-api] error GET  - syntax error at or near "E"
+2021-10-01T13:29:36.408Z [livraria-api] error GET  - syntax error at or near "E"
+2021-10-01T13:30:02.374Z [livraria-api] error GET  - syntax error at or near "E"
+2021-10-01T13:30:28.803Z [livraria-api] info GET /cliente
+2021-10-01T13:32:43.446Z [livraria-api] info GET /cliente
+2021-10-01T13:32:46.463Z [livraria-api] info GET /cliente
+2021-10-01T13:32:47.968Z [livraria-api] info GET /cliente
+2021-10-01T13:33:28.878Z [livraria-api] info GET /cliente
+2021-10-01T13:33:30.071Z [livraria-api] info GET /cliente
+2021-10-01T13:33:33.371Z [livraria-api] info GET /cliente
+2021-10-01T13:34:01.668Z [livraria-api] info GET /cliente
+2021-10-01T13:34:05.356Z [livraria-api] info GET /cliente
+2021-10-01T13:34:06.936Z [livraria-api] info GET /cliente
+2021-10-01T13:34:27.266Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:34:31.791Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:34:33.836Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:34:34.790Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:35:07.683Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:35:10.989Z [livraria-api] error GET  - ID inexistente!
+2021-10-01T13:35:47.441Z [livraria-api] error GET  - res is not defined
+2021-10-01T13:36:01.913Z [livraria-api] error GET  - res is not defined
+2021-10-01T13:36:40.885Z [livraria-api] info GET /cliente
+2021-10-01T13:36:43.783Z [livraria-api] info GET /cliente
+2021-10-01T13:38:11.325Z [livraria-api] info GET /cliente
+2021-10-01T13:38:14.366Z [livraria-api] info GET /cliente
+2021-10-01T13:38:15.676Z [livraria-api] info GET /cliente
+2021-10-01T13:38:26.099Z [livraria-api] info GET /cliente
+2021-10-01T13:38:39.304Z [livraria-api] info GET /cliente
+2021-10-01T13:38:42.505Z [livraria-api] info GET /cliente
+2021-10-01T13:39:05.564Z [livraria-api] info GET /cliente
+2021-10-01T13:39:10.414Z [livraria-api] info GET /cliente
+2021-10-01T13:40:53.562Z [livraria-api] info GET /cliente
+2021-10-01T13:40:54.705Z [livraria-api] info GET /cliente
+2021-10-01T13:40:57.901Z [livraria-api] info GET /cliente
+2021-10-01T13:41:02.151Z [livraria-api] info GET /cliente
+2021-10-01T13:41:07.424Z [livraria-api] info GET /cliente
+2021-10-01T13:56:10.114Z [livraria-api] info GET /cliente
+2021-10-01T13:56:14.164Z [livraria-api] info GET /cliente
+2021-10-01T14:01:35.637Z [livraria-api] info GET /cliente
+2021-10-01T14:02:16.439Z [livraria-api] info GET /cliente
+2021-10-01T14:03:49.956Z [livraria-api] info GET /cliente
+2021-10-01T14:05:00.362Z [livraria-api] info GET /cliente
+2021-10-01T14:05:37.455Z [livraria-api] error GET  - Connection terminated unexpectedly
+2021-10-01T14:05:40.499Z [livraria-api] info GET /cliente
+2021-10-01T14:05:41.967Z [livraria-api] info GET /cliente
+2021-10-01T14:05:42.910Z [livraria-api] info GET /cliente
+2021-10-01T14:08:44.674Z [livraria-api] error DELETE  - syntax error at or near "*"
+2021-10-01T14:09:15.468Z [livraria-api] error DELETE  - syntax error at or near "*"
+2021-10-01T14:09:48.607Z [livraria-api] info DELETE /cliente
+2021-10-01T14:10:14.133Z [livraria-api] info DELETE /cliente
+2021-10-01T14:10:20.633Z [livraria-api] info DELETE /cliente
+2021-10-01T14:10:23.501Z [livraria-api] info GET /cliente
+2021-10-01T14:10:24.971Z [livraria-api] info GET /cliente
+2021-10-01T14:11:28.476Z [livraria-api] info DELETE /cliente
+2021-10-01T14:11:29.367Z [livraria-api] info DELETE /cliente
+2021-10-01T14:11:30.302Z [livraria-api] info DELETE /cliente
+2021-10-01T14:11:34.835Z [livraria-api] info DELETE /cliente
+2021-10-01T14:12:17.575Z [livraria-api] info DELETE /cliente
+2021-10-01T14:18:25.762Z [livraria-api] info DELETE /cliente
+2021-10-01T14:18:41.597Z [livraria-api] info DELETE /cliente
+2021-10-01T14:18:45.175Z [livraria-api] info GET /cliente
+2021-10-01T14:41:12.155Z [livraria-api] error PUT  - cliente is not defined
+2021-10-01T14:43:04.360Z [livraria-api] error PUT  - cliente is not defined
+2021-10-01T14:43:18.638Z [livraria-api] info PUT /cliente - {"cliente_id":1,"nome":"João 3","email":"joãoSilva1@gmail.com","senha":"123456777","telefone":"44 9 9898-7070","endereco":"Rua Xv numero 100"}
+2021-10-01T14:43:26.874Z [livraria-api] info PUT /cliente - {"cliente_id":11,"nome":"João 3","email":"joãoSilva1@gmail.com","senha":"123456777","telefone":"44 9 9898-7070","endereco":"Rua Xv numero 100"}
+2021-10-01T17:34:54.303Z [livraria-api] error POST  - Senha é obrigatória!
+2021-10-01T17:35:03.826Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T17:35:17.031Z [livraria-api] error GET  - AutorService.getAutores is not a function
+2021-10-01T17:37:27.878Z [livraria-api] info GET /autor
+2021-10-01T17:37:32.921Z [livraria-api] info GET /cliente
+2021-10-01T17:37:36.026Z [livraria-api] info GET /cliente
+2021-10-01T17:37:41.425Z [livraria-api] info GET /autor
+2021-10-01T17:38:08.845Z [livraria-api] error PUT  - could not determine data type of parameter $4
+2021-10-01T17:38:59.131Z [livraria-api] info PUT /autor - {"autor_id":1,"nome":"José Machado de Assis","email":"JoséMachado1@gmail.com","telefone":"44 9 9898-9090"}
+2021-10-01T17:39:02.706Z [livraria-api] info GET /autor
+2021-10-01T17:40:17.200Z [livraria-api] info POST /autor - {"nome":"José Machado","email":"joãoSilva1@gmail.com","telefone":"44 9 9898-9090"}
+2021-10-01T17:40:25.206Z [livraria-api] info DELETE /autor
+2021-10-01T17:40:27.730Z [livraria-api] info GET /autor
+2021-10-01T17:40:31.037Z [livraria-api] info GET /autor
+2021-10-01T18:25:29.410Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T18:26:01.280Z [livraria-api] info GET /livro
+2021-10-01T18:26:08.200Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T18:26:30.928Z [livraria-api] info PUT /livro - {"livro_id":2,"nome":"Sitio do Pica Pau amarelo","valor":"50.3","estoque":10,"autor_id":1}
+2021-10-01T18:26:33.258Z [livraria-api] info GET /livro
+2021-10-01T18:26:36.476Z [livraria-api] info DELETE /livro
+2021-10-01T18:26:38.305Z [livraria-api] info GET /livro
+2021-10-01T18:26:42.507Z [livraria-api] info GET /livro
+2021-10-01T18:28:39.656Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T18:28:43.665Z [livraria-api] info PUT /livro - {"livro_id":2,"nome":"Sitio do Pica Pau amarelo","valor":"50.3","estoque":10,"autor_id":100}
+2021-10-01T18:29:09.140Z [livraria-api] error POST  - insert or update on table "livros" violates foreign key constraint "fk_autores"
+2021-10-01T18:29:14.384Z [livraria-api] info DELETE /livro
+2021-10-01T18:29:16.493Z [livraria-api] info GET /livro
+2021-10-01T18:29:23.588Z [livraria-api] info DELETE /livro
+2021-10-01T19:04:03.282Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-01T19:04:07.594Z [livraria-api] error POST  - O Autor_id informado não existe!
+2021-10-01T19:06:16.461Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-04T13:38:37.892Z [livraria-api] info GET /cliente
+2021-10-04T13:39:08.788Z [livraria-api] info GET /livro
+2021-10-04T13:39:25.139Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T13:39:33.320Z [livraria-api] info GET /venda
+2021-10-04T13:39:35.869Z [livraria-api] info GET /venda
+2021-10-04T13:40:02.914Z [livraria-api] info PUT /venda - {"venda_id":1,"valor":"200","data":"2020-04-04T03:00:00.000Z","cliente_id":2,"livro_id":5}
+2021-10-04T13:40:07.908Z [livraria-api] info GET /venda
+2021-10-04T13:40:11.963Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T13:40:17.558Z [livraria-api] info GET /venda
+2021-10-04T13:40:20.252Z [livraria-api] info DELETE /venda
+2021-10-04T13:40:22.139Z [livraria-api] info GET /venda
+2021-10-04T13:47:39.763Z [livraria-api] error POST  - Livro ID informado não existe!
+2021-10-04T13:47:45.260Z [livraria-api] error POST  - Cliente ID informado não existe!
+2021-10-04T13:51:21.080Z [livraria-api] error POST  - Cliente ID informado não existe! /n,Livro ID informado não existe!
+2021-10-04T13:51:31.421Z [livraria-api] error POST  - Cliente ID informado não existe! 
+,Livro ID informado não existe!
+2021-10-04T13:51:42.384Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T13:51:57.886Z [livraria-api] error POST  - Cliente ID informado não existe! ,Livro ID informado não existe!
+2021-10-04T13:52:25.658Z [livraria-api] error POST  - Cliente ID informado não existe! 
+2021-10-04T13:58:40.241Z [livraria-api] error POST  - Cliente ID informado não existe!
+2021-10-04T13:58:43.778Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:00:26.342Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:01:14.101Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:01:19.127Z [livraria-api] error POST  - Cliente ID informado não existe!
+2021-10-04T14:01:23.118Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:01:55.699Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:02:37.676Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:05:36.159Z [livraria-api] error PUT  - Venda ID informado não existe!
+2021-10-04T14:05:42.827Z [livraria-api] error PUT  - Venda ID informado não existe!,Cliente ID informado não existe!
+2021-10-04T14:05:47.543Z [livraria-api] error PUT  - Venda ID informado não existe!,Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:05:54.758Z [livraria-api] error PUT  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:08:55.653Z [livraria-api] info GET /livro
+2021-10-04T14:26:00.780Z [livraria-api] error POST  - 
+2021-10-04T14:26:50.190Z [livraria-api] error POST  - 
+2021-10-04T14:26:52.832Z [livraria-api] info GET /livro
+2021-10-04T14:26:55.335Z [livraria-api] info GET /cliente
+2021-10-04T14:27:03.052Z [livraria-api] error POST  - 
+2021-10-04T14:27:46.719Z [livraria-api] error POST  - 
+2021-10-04T14:28:01.983Z [livraria-api] info GET /venda
+2021-10-04T14:28:38.022Z [livraria-api] error POST  - 
+2021-10-04T14:29:52.829Z [livraria-api] error POST  - 
+2021-10-04T14:30:02.783Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:30:17.873Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:30:20.454Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:30:24.526Z [livraria-api] error POST  - Cannot read property 'estoque' of undefined
+2021-10-04T14:31:22.181Z [livraria-api] error POST  - Livro ID informado não existe!
+2021-10-04T14:31:30.044Z [livraria-api] error POST  - Cliente ID informado não existe!,Livro ID informado não existe!
+2021-10-04T14:31:38.125Z [livraria-api] error POST  - 
+2021-10-04T14:32:10.252Z [livraria-api] info GET /livro
+2021-10-04T14:32:17.489Z [livraria-api] error POST  - 
+2021-10-04T14:32:30.249Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:32:49.720Z [livraria-api] error POST  - Cannot read property 'estoque' of undefined
+2021-10-04T14:33:42.398Z [livraria-api] error POST  - Livro ID informado não existe!
+2021-10-04T14:33:51.079Z [livraria-api] error POST  - 
+2021-10-04T14:34:35.193Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:34:39.887Z [livraria-api] info GET /livro
+2021-10-04T14:34:42.838Z [livraria-api] info GET /venda
+2021-10-04T14:34:53.978Z [livraria-api] error POST  - Cannot read property 'estoque' of undefined
+2021-10-04T14:35:35.543Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:35:40.427Z [livraria-api] error POST  - Cannot read property 'estoque' of undefined
+2021-10-04T14:35:49.203Z [livraria-api] error POST  - insert or update on table "vendas" violates foreign key constraint "fk_clientes"
+2021-10-04T14:40:27.775Z [livraria-api] error POST  - Cliente ID informado não existe!
+2021-10-04T14:40:34.415Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:40:41.246Z [livraria-api] error POST  - Livro ID informado não existe!
+2021-10-04T14:40:49.302Z [livraria-api] error POST  - Cliente ID informado não existe!Livro ID informado não existe!
+2021-10-04T14:40:58.152Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:41:02.254Z [livraria-api] info GET /venda
+2021-10-04T14:41:16.058Z [livraria-api] info GET /livro
+2021-10-04T14:41:22.362Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:41:23.606Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T14:41:24.656Z [livraria-api] error POST  - O produto informado não está disponível em estoque!
+2021-10-04T14:41:31.710Z [livraria-api] info GET /livro
+2021-10-04T16:58:47.595Z [livraria-api] info GET /venda
+2021-10-04T16:58:55.984Z [livraria-api] info DELETE /venda
+2021-10-04T16:59:00.038Z [livraria-api] info GET /venda
+2021-10-04T16:59:04.219Z [livraria-api] info GET /livro
+2021-10-04T16:59:52.856Z [livraria-api] info PUT /livro - {"livro_id":5,"nome":"Sitio do Pica-Pau amarelo","valor":"50.3","estoque":10,"autor_id":1}
+2021-10-04T16:59:56.781Z [livraria-api] info GET /livro
+2021-10-04T17:00:04.544Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T17:07:38.862Z [livraria-api] info GET /venda
+2021-10-04T17:07:40.610Z [livraria-api] info GET /venda
+2021-10-04T17:07:50.620Z [livraria-api] error DELETE  - O ID de venda informado não existe!
+2021-10-04T17:07:59.495Z [livraria-api] info GET /livro
+2021-10-04T17:08:15.866Z [livraria-api] info DELETE /venda
+2021-10-04T17:08:18.493Z [livraria-api] info GET /livro
+2021-10-04T17:08:24.477Z [livraria-api] info DELETE /venda
+2021-10-04T17:08:28.224Z [livraria-api] info DELETE /venda
+2021-10-04T17:08:30.535Z [livraria-api] info GET /livro
+2021-10-04T17:08:40.260Z [livraria-api] info GET /venda
+2021-10-04T17:08:53.127Z [livraria-api] info DELETE /venda
+2021-10-04T17:08:55.670Z [livraria-api] info DELETE /venda
+2021-10-04T17:08:58.576Z [livraria-api] info DELETE /venda
+2021-10-04T17:09:01.133Z [livraria-api] info GET /venda
+2021-10-04T17:09:10.275Z [livraria-api] info DELETE /venda
+2021-10-04T17:09:13.955Z [livraria-api] info DELETE /venda
+2021-10-04T17:09:17.075Z [livraria-api] info DELETE /venda
+2021-10-04T17:09:20.144Z [livraria-api] info DELETE /venda
+2021-10-04T17:09:22.974Z [livraria-api] info GET /venda
+2021-10-04T17:09:26.643Z [livraria-api] info GET /livro
+2021-10-04T17:11:38.893Z [livraria-api] info GET /venda
+2021-10-04T17:12:09.675Z [livraria-api] error PUT  - undefined
+2021-10-04T17:12:23.689Z [livraria-api] info GET /livro
+2021-10-04T17:12:32.101Z [livraria-api] info GET /venda
+2021-10-04T17:13:08.684Z [livraria-api] error PUT  - Cliente ID informado não existe!
+2021-10-04T17:13:13.764Z [livraria-api] info GET /venda
+2021-10-04T17:13:20.027Z [livraria-api] info PUT /venda - {"venda_id":14,"valor":"200","data":"2020-04-04T03:00:00.000Z","cliente_id":1,"livro_id":1}
+2021-10-04T17:32:43.009Z [livraria-api] info GET /venda
+2021-10-04T17:32:48.189Z [livraria-api] info GET /livro
+2021-10-04T17:32:53.062Z [livraria-api] info GET /venda
+2021-10-04T17:32:58.974Z [livraria-api] info GET /venda
+2021-10-04T17:33:01.285Z [livraria-api] info GET /venda
+2021-10-04T17:33:13.896Z [livraria-api] info GET /livro
+2021-10-04T17:33:20.180Z [livraria-api] info GET /venda
+2021-10-04T17:33:24.892Z [livraria-api] info GET /venda
+2021-10-04T17:33:42.097Z [livraria-api] error POST  - O Autor_id informado não existe!
+2021-10-04T17:33:46.388Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T17:33:51.329Z [livraria-api] info GET /venda
+2021-10-04T17:33:53.347Z [livraria-api] info GET /venda
+2021-10-04T17:33:57.387Z [livraria-api] info GET /venda
+2021-10-04T17:34:18.675Z [livraria-api] info GET /cliente
+2021-10-04T17:34:31.450Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T17:34:40.917Z [livraria-api] info GET /venda
+2021-10-04T17:34:44.321Z [livraria-api] info GET /venda
+2021-10-04T17:34:52.614Z [livraria-api] info GET /livro
+2021-10-04T17:35:02.324Z [livraria-api] info GET /venda
+2021-10-04T18:49:09.461Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-04T18:49:35.312Z [livraria-api] error PUT  - Cliente ID é obrigatório!
+2021-10-04T18:49:39.754Z [livraria-api] error GET  - Client is not defined
+2021-10-04T18:49:40.660Z [livraria-api] error GET  - Client is not defined
+2021-10-04T18:49:41.324Z [livraria-api] error GET  - Client is not defined
+2021-10-04T18:49:41.481Z [livraria-api] error GET  - Client is not defined
+2021-10-04T18:49:53.929Z [livraria-api] info GET /cliente
+2021-10-04T18:50:07.484Z [livraria-api] error PUT  - Cliente ID é obrigatório!
+2021-10-04T18:50:27.493Z [livraria-api] info GET /cliente
+2021-10-04T18:51:36.243Z [livraria-api] info PUT /cliente - {"clienteId":5,"nome":"João 5","email":"joãoSilva1@gmail.com","senha":"123456777","telefone":"44 9 9898-7070","endereco":"Rua Xv numero 100"}
+2021-10-04T18:51:56.666Z [livraria-api] info GET /cliente
+2021-10-04T18:52:04.650Z [livraria-api] info GET /cliente
+2021-10-04T18:52:09.943Z [livraria-api] info DELETE /cliente
+2021-10-04T18:52:11.677Z [livraria-api] info GET /cliente
+2021-10-05T12:50:58.201Z [livraria-api] info GET /cliente
+2021-10-05T12:51:15.982Z [livraria-api] info GET /cliente
+2021-10-05T12:51:20.316Z [livraria-api] error GET  - connect is not a function
+2021-10-05T12:51:21.542Z [livraria-api] error GET  - connect is not a function
+2021-10-05T13:01:33.182Z [livraria-api] error GET  - connect is not a function
+2021-10-05T13:05:30.660Z [livraria-api] info GET /livro
+2021-10-05T13:05:36.964Z [livraria-api] info GET /livro
+2021-10-05T13:06:02.021Z [livraria-api] error PUT  - connect is not a function
+2021-10-05T13:06:50.785Z [livraria-api] error PUT  - Livro ID é obrigatório!
+2021-10-05T13:06:52.026Z [livraria-api] error PUT  - Livro ID é obrigatório!
+2021-10-05T13:07:13.324Z [livraria-api] error PUT  - Autor ID é obrigatório!
+2021-10-05T13:07:18.473Z [livraria-api] error PUT  - connect is not a function
+2021-10-05T13:09:37.549Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-05T13:09:57.022Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-05T13:09:58.429Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-05T13:10:17.089Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:10:18.061Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:10:18.811Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:10:19.501Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:11:54.058Z [livraria-api] info GET /autor
+2021-10-05T13:11:56.428Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:11:57.261Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:11:57.858Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:11:58.398Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:12:00.719Z [livraria-api] error GET  - AutorRepository.getAutors is not a function
+2021-10-05T13:12:47.947Z [livraria-api] info GET /autor
+2021-10-05T13:13:01.564Z [livraria-api] info PUT /autor - {"autorId":1,"nome":"José Machado de A.","email":"JoséMachado1@gmail.com","telefone":"44 9 9898-9090"}
+2021-10-05T13:13:06.095Z [livraria-api] info POST /autor - {"nome":"José Machado","email":"joãoSilva1@gmail.com","telefone":"44 9 9898-9090"}
+2021-10-05T13:13:10.449Z [livraria-api] info GET /autor
+2021-10-05T13:13:14.524Z [livraria-api] info DELETE /autor
+2021-10-05T13:13:18.982Z [livraria-api] info GET /autor
+2021-10-05T13:17:47.021Z [livraria-api] info GET /livro
+2021-10-05T13:17:50.517Z [livraria-api] info GET /livro
+2021-10-05T13:17:55.057Z [livraria-api] info GET /livro
+2021-10-05T13:18:02.236Z [livraria-api] info DELETE /livro
+2021-10-05T13:18:04.433Z [livraria-api] info GET /livro
+2021-10-05T13:18:09.379Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-05T13:18:10.342Z [livraria-api] error PUT  - O Autor_id informado não existe!
+2021-10-05T13:18:17.823Z [livraria-api] info GET /livro
+2021-10-05T13:18:37.477Z [livraria-api] info GET /autor
+2021-10-05T13:19:06.481Z [livraria-api] error POST  - Autor ID é obrigatório!
+2021-10-05T13:19:11.368Z [livraria-api] error POST  - O Autor_id informado não existe!
+2021-10-05T13:20:21.834Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-05T13:20:37.018Z [livraria-api] info GET /livro
+2021-10-05T13:20:42.425Z [livraria-api] info PUT /livro - {"livroId":7,"nome":"Sitio do Pica-Pau amarelo","valor":"50","estoque":10,"autorId":1}
+2021-10-05T13:20:46.967Z [livraria-api] info GET /livro
+2021-10-05T13:20:52.553Z [livraria-api] info DELETE /livro
+2021-10-05T13:20:56.327Z [livraria-api] info GET /livro
+2021-10-05T13:25:50.835Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-05T13:25:53.178Z [livraria-api] info GET /livro
+2021-10-05T13:26:01.963Z [livraria-api] error DELETE  - connect is not a function
+2021-10-05T13:26:06.327Z [livraria-api] error DELETE  - connect is not a function
+2021-10-05T13:26:16.930Z [livraria-api] info GET /livro
+2021-10-05T13:26:20.411Z [livraria-api] error DELETE  - connect is not a function
+2021-10-05T13:26:21.208Z [livraria-api] error DELETE  - connect is not a function
+2021-10-05T13:29:42.861Z [livraria-api] info DELETE /livro
+2021-10-05T13:29:45.272Z [livraria-api] info GET /livro
+2021-10-05T13:47:20.922Z [livraria-api] info GET /livro
+2021-10-05T13:47:29.570Z [livraria-api] info GET /cliente
+2021-10-05T13:47:40.125Z [livraria-api] error GET  - connect is not a function
+2021-10-05T13:47:41.382Z [livraria-api] error GET  - connect is not a function
+2021-10-05T13:47:48.022Z [livraria-api] error GET  - connect is not a function
+2021-10-05T13:47:50.231Z [livraria-api] error POST  - Cliente_id é obrigatória!
+2021-10-05T13:48:23.346Z [livraria-api] error POST  - Cliente ID informado não existe!Livro ID informado não existe!
+2021-10-05T13:49:30.809Z [livraria-api] error POST  - connect is not a function
+2021-10-05T13:49:51.880Z [livraria-api] error POST  - connect is not defined
+2021-10-05T13:50:04.367Z [livraria-api] error POST  - notNull Violation: vendas.valor cannot be null,
+notNull Violation: vendas.data cannot be null
+2021-10-05T13:50:21.787Z [livraria-api] error POST  - notNull Violation: vendas.valor cannot be null,
+notNull Violation: vendas.data cannot be null
+2021-10-05T13:52:10.820Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-05T15:00:39.132Z [livraria-api] info GET /venda
+2021-10-05T15:07:18.021Z [livraria-api] info GET /venda
+2021-10-05T18:48:49.351Z [livraria-api] info GET /venda
+2021-10-05T18:48:58.789Z [livraria-api] info GET /venda
+2021-10-05T18:49:05.609Z [livraria-api] info GET /venda
+2021-10-05T18:49:49.020Z [livraria-api] info GET /venda
+2021-10-05T18:49:52.299Z [livraria-api] info GET /venda
+2021-10-05T18:49:53.067Z [livraria-api] info GET /venda
+2021-10-05T18:49:55.003Z [livraria-api] info GET /venda
+2021-10-05T18:51:32.583Z [livraria-api] info GET /venda
+2021-10-05T18:52:14.867Z [livraria-api] info GET /venda
+2021-10-05T18:52:26.783Z [livraria-api] info GET /venda
+2021-10-06T12:34:11.059Z [livraria-api] info GET /venda
+2021-10-06T12:34:18.494Z [livraria-api] info DELETE /venda
+2021-10-06T12:34:21.692Z [livraria-api] info GET /venda
+2021-10-06T12:40:09.916Z [livraria-api] info GET /venda
+2021-10-06T12:40:25.021Z [livraria-api] error PUT  - Venda ID é obrigatório!
+2021-10-06T12:41:00.768Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"250","data":"2020-04-04","clienteId":1,"livroId":5}
+2021-10-06T12:41:05.757Z [livraria-api] info GET /venda
+2021-10-06T12:41:23.736Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"250","data":"2020-04-04","clienteId":1,"livroId":5}
+2021-10-06T12:41:25.722Z [livraria-api] info GET /venda
+2021-10-06T12:41:38.627Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":1,"livroId":5}
+2021-10-06T12:41:40.268Z [livraria-api] info GET /venda
+2021-10-06T12:42:49.013Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":1,"livroId":5}
+2021-10-06T12:42:52.972Z [livraria-api] info GET /venda
+2021-10-06T12:43:08.423Z [livraria-api] info GET /cliente
+2021-10-06T12:43:18.059Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":2,"livroId":5}
+2021-10-06T12:43:23.574Z [livraria-api] info GET /livro
+2021-10-06T12:43:36.048Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":2,"livroId":1}
+2021-10-06T12:44:39.198Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":2,"livroId":1}
+2021-10-06T12:45:07.066Z [livraria-api] info GET /livro
+2021-10-06T12:45:10.309Z [livraria-api] info GET /livro
+2021-10-06T12:45:34.724Z [livraria-api] info PUT /venda - {"vendaId":14,"valor":"300","data":"2020-04-04","clienteId":2,"livroId":5}
+2021-10-06T12:46:19.385Z [livraria-api] info DELETE /venda
+2021-10-06T12:46:23.758Z [livraria-api] info GET /venda
+2021-10-06T12:46:31.534Z [livraria-api] info GET /livro
+2021-10-06T12:46:46.788Z [livraria-api] info GET /venda
+2021-10-06T12:46:54.098Z [livraria-api] error DELETE  - Esse produto possui vendas, não é possível excluí-lo!
+2021-10-06T12:47:01.213Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-06T12:47:06.218Z [livraria-api] error DELETE  - Esse produto possui vendas, não é possível excluí-lo!
+2021-10-06T12:47:07.265Z [livraria-api] error DELETE  - Esse produto possui vendas, não é possível excluí-lo!
+2021-10-06T12:47:12.317Z [livraria-api] info GET /livro
+2021-10-06T12:55:20.460Z [livraria-api] info DELETE /livro
+2021-10-06T12:55:24.420Z [livraria-api] info GET /livro
+2021-10-06T13:04:11.335Z [livraria-api] info GET /autor
+2021-10-06T13:04:18.570Z [livraria-api] info POST /autor - {"nome":"José Machado","email":"joãoSilva1@gmail.com","telefone":"44 9 9898-9090"}
+2021-10-06T13:04:20.489Z [livraria-api] info GET /autor
+2021-10-06T13:04:48.533Z [livraria-api] info GET /livro
+2021-10-06T13:05:05.068Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-06T13:05:14.344Z [livraria-api] info GET /livro
+2021-10-06T13:05:20.695Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-06T13:08:22.454Z [livraria-api] info GET /venda
+2021-10-06T13:08:26.652Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-06T13:08:29.824Z [livraria-api] info GET /venda
+2021-10-06T13:08:35.570Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:08:37.097Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:08:37.892Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:08:38.085Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:09:47.440Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:50.147Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:51.021Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:51.602Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:51.868Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:52.114Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:52.419Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:10:53.129Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:12:14.656Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:12:15.946Z [livraria-api] error GET  - autorId is not defined
+2021-10-06T13:12:35.791Z [livraria-api] info GET /venda
+2021-10-06T13:13:28.274Z [livraria-api] info GET /venda
+2021-10-06T13:13:40.457Z [livraria-api] info GET /venda
+2021-10-06T17:24:52.945Z [livraria-api] info GET /livro
+2021-10-06T17:27:37.138Z [livraria-api] info GET /livro
+2021-10-06T17:40:08.240Z [livraria-api] error POST  - next is not defined
+2021-10-06T17:40:54.702Z [livraria-api] error POST  - mongoConnection(...).insertOne is not a function
+2021-10-06T17:41:07.695Z [livraria-api] error POST  - mongoConnection.insertOne is not a function
+2021-10-06T17:45:13.937Z [livraria-api] info GET /livro
+2021-10-06T17:45:28.785Z [livraria-api] info GET /venda
+2021-10-06T17:47:20.968Z [livraria-api] info GET /livro
+2021-10-06T17:48:06.365Z [livraria-api] error PUT  - Nome é obrigatório!
+2021-10-06T18:09:06.660Z [livraria-api] info GET /livro
+2021-10-06T18:09:21.068Z [livraria-api] info GET /livro
+2021-10-06T18:10:45.727Z [livraria-api] info GET /livro
+2021-10-06T18:14:29.273Z [livraria-api] info GET /livro
+2021-10-06T18:14:45.504Z [livraria-api] info GET /livro
+2021-10-06T18:15:26.558Z [livraria-api] info GET /livro
+2021-10-06T18:15:32.050Z [livraria-api] info GET /livro
+2021-10-06T18:15:58.784Z [livraria-api] info GET /livro
+2021-10-06T18:16:01.223Z [livraria-api] info GET /livro
+2021-10-06T18:16:07.282Z [livraria-api] info GET /livro
+2021-10-06T18:16:09.435Z [livraria-api] info GET /livro
+2021-10-06T18:16:55.296Z [livraria-api] info GET /livro
+2021-10-06T18:18:19.013Z [livraria-api] info GET /livro
+2021-10-06T18:18:29.758Z [livraria-api] info GET /livro
+2021-10-06T18:20:35.038Z [livraria-api] error GET  - LivroInfoRepository is not defined
+2021-10-06T18:20:58.607Z [livraria-api] error GET  - LivroRepository.getLivroInfo is not a function
+2021-10-06T18:21:52.663Z [livraria-api] info GET /livro
+2021-10-06T18:23:03.524Z [livraria-api] info GET /livro
+2021-10-06T18:23:15.658Z [livraria-api] info GET /livro
+2021-10-06T18:23:16.142Z [livraria-api] info GET /livro
+2021-10-06T18:23:22.970Z [livraria-api] info GET /livro
+2021-10-06T18:23:46.833Z [livraria-api] info GET /livro
+2021-10-06T18:24:09.248Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-06T18:24:14.657Z [livraria-api] info GET /livro
+2021-10-06T18:36:15.080Z [livraria-api] info GET /livro
+2021-10-06T18:36:22.967Z [livraria-api] info GET /livro
+2021-10-06T18:36:45.682Z [livraria-api] info GET /livro
+2021-10-06T18:37:16.678Z [livraria-api] info GET /livro
+2021-10-06T18:51:04.210Z [livraria-api] info GET /livro
+2021-10-06T18:52:15.572Z [livraria-api] error POST  - next is not defined
+2021-10-06T18:53:29.939Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-06T18:53:40.881Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:57:26.113Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:57:27.157Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:05.822Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:06.689Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:07.382Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:07.843Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:08.037Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:08.235Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-06T18:58:14.571Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-06T18:59:06.676Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-06T18:59:22.009Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-06T19:00:02.747Z [livraria-api] error POST  - Cannot read property 'review' of null
+2021-10-07T12:46:14.205Z [livraria-api] info GET /livro
+2021-10-07T12:46:29.432Z [livraria-api] info GET /livro
+2021-10-07T12:47:03.779Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T12:48:07.977Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T12:48:10.941Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T12:48:18.759Z [livraria-api] info GET /livro
+2021-10-07T12:54:37.802Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T12:55:47.000Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-07T12:56:18.807Z [livraria-api] error POST  - Cannot read property 'review' of null
+2021-10-07T12:56:23.081Z [livraria-api] error POST  - Review é obrigatório!
+2021-10-07T12:58:26.234Z [livraria-api] info GET /cliente
+2021-10-07T12:58:34.985Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:06:18.371Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:06:45.699Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:07:11.607Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:12:45.952Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:14:48.933Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:15:59.470Z [livraria-api] error POST  - Unexpected end of JSON input
+2021-10-07T13:16:38.511Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:20:46.360Z [livraria-api] info GET /livro
+2021-10-07T13:20:56.583Z [livraria-api] error POST  - Cannot read property 'push' of undefined
+2021-10-07T13:21:28.120Z [livraria-api] error POST  - Cannot read property 'push' of undefined
+2021-10-07T13:21:37.127Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:21:44.020Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:21:51.707Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T13:22:00.159Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:22:05.172Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:22:24.855Z [livraria-api] error POST  - Cannot read property 'push' of null
+2021-10-07T13:22:38.625Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:22:51.459Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:23:17.194Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:24:48.501Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:25:20.878Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:33:23.788Z [livraria-api] error POST  - next is not defined
+2021-10-07T13:33:37.898Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:37:07.339Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:41:23.760Z [livraria-api] info GET /livro
+2021-10-07T13:41:29.047Z [livraria-api] info GET /livro
+2021-10-07T13:41:50.694Z [livraria-api] error POST  - Cannot read property 'reviews' of null
+2021-10-07T13:41:53.434Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T13:42:05.089Z [livraria-api] info GET /livro
+2021-10-07T13:42:11.186Z [livraria-api] info GET /livro
+2021-10-07T13:42:33.200Z [livraria-api] info GET /livro
+2021-10-07T13:42:43.559Z [livraria-api] info GET /livro
+2021-10-07T13:43:01.462Z [livraria-api] info GET /livro
+2021-10-07T13:50:35.398Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T13:51:31.227Z [livraria-api] error POST  - avaliacao is not defined
+2021-10-07T13:51:48.413Z [livraria-api] error POST  - Avaliação é obrigatório!
+2021-10-07T13:53:24.127Z [livraria-api] error POST  - Avaliação é obrigatória!
+2021-10-07T13:53:26.100Z [livraria-api] error POST  - Avaliação é obrigatória!
+2021-10-07T13:53:39.311Z [livraria-api] info GET /livro
+2021-10-07T13:53:48.188Z [livraria-api] info GET /livro
+2021-10-07T14:10:03.136Z [livraria-api] info GET /livro
+2021-10-07T14:10:18.788Z [livraria-api] info GET /livro
+2021-10-07T14:12:25.006Z [livraria-api] error DELETE  - Cannot read property 'avaliacoes' of null
+2021-10-07T14:36:37.184Z [livraria-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-07T14:37:25.505Z [livraria-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-07T14:38:13.141Z [livraria-api] info GET /livro/info
+2021-10-07T14:38:32.045Z [livraria-api] info GET /livro/info
+2021-10-07T14:49:11.407Z [livraria-api] info GET /livro/info
+2021-10-07T14:51:12.069Z [livraria-api] error DELETE  - LivroService.deleteLivroInfo is not a function
+2021-10-07T14:51:32.524Z [livraria-api] error DELETE  - LivroService.deleteLivroInfo is not a function
+2021-10-07T14:51:59.285Z [livraria-api] error DELETE  - livroId is not defined
+2021-10-07T14:52:14.639Z [livraria-api] info DELETE /livro/info
+2021-10-07T14:52:20.847Z [livraria-api] info GET /livro/info
+2021-10-07T14:52:24.874Z [livraria-api] info GET /livro/info
+2021-10-07T14:52:50.144Z [livraria-api] info GET /livro
+2021-10-07T14:52:58.008Z [livraria-api] info GET /livro/info
+2021-10-07T14:53:06.852Z [livraria-api] info DELETE /livro/info
+2021-10-07T14:53:10.131Z [livraria-api] info GET /livro/info
+2021-10-07T14:54:39.282Z [livraria-api] info GET /livro/info
+2021-10-07T14:54:44.618Z [livraria-api] info DELETE /livro/info
+2021-10-07T14:54:48.091Z [livraria-api] info GET /livro/info
+2021-10-07T17:53:40.790Z [livraria-api] info GET /livro
+2021-10-07T17:56:16.681Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T18:03:21.237Z [livraria-api] error GET  - query is not defined
+2021-10-07T18:03:22.559Z [livraria-api] error GET  - query is not defined
+2021-10-07T18:04:14.562Z [livraria-api] error GET  - query is not defined
+2021-10-07T18:04:33.332Z [livraria-api] info GET /livro/info
+2021-10-07T18:04:45.126Z [livraria-api] info GET /livro/info
+2021-10-07T18:07:28.167Z [livraria-api] info GET /livro
+2021-10-07T18:07:37.795Z [livraria-api] info GET /livro/info
+2021-10-07T18:07:44.220Z [livraria-api] info GET /livro/info
+2021-10-07T18:08:06.627Z [livraria-api] info GET /livro/info
+2021-10-07T18:09:39.621Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:09:42.783Z [livraria-api] info GET /livro/info
+2021-10-07T18:10:04.424Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T18:10:11.302Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:11:04.138Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:11:15.855Z [livraria-api] error POST  - Avaliação é obrigatória!
+2021-10-07T18:12:15.953Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:12:49.139Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:14:15.756Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:14:23.967Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:15:20.478Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:15:57.207Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:16:48.912Z [livraria-api] error POST  - Cannot read property 'AvaliacaoSchema' of undefined
+2021-10-07T18:17:56.860Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:02.742Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T18:18:08.106Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:18:14.051Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:15.513Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:16.422Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:24.077Z [livraria-api] info GET /livro
+2021-10-07T18:18:31.211Z [livraria-api] info GET /livro
+2021-10-07T18:18:34.094Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:35.287Z [livraria-api] info GET /livro/info
+2021-10-07T18:18:56.228Z [livraria-api] info GET /livro/info
+2021-10-07T18:19:02.131Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:28.228Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:31.081Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:37.534Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:38.720Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:39.707Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.020Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.162Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.572Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.574Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.900Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:40.967Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:19:41.193Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:20:31.430Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:21:55.420Z [livraria-api] info GET /livro/info
+2021-10-07T18:22:12.575Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:22:13.590Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:22:25.543Z [livraria-api] info GET /livro/info
+2021-10-07T18:22:34.000Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:34.549Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:34.928Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:35.211Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:35.551Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:35.816Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:35.981Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:36.120Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:36.288Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:38.476Z [livraria-api] info DELETE /livro/info
+2021-10-07T18:22:40.655Z [livraria-api] info GET /livro/info
+2021-10-07T18:22:49.006Z [livraria-api] info GET /livro
+2021-10-07T18:23:02.089Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:04.972Z [livraria-api] error DELETE  - Esse produto possui vendas, não é possível excluí-lo!
+2021-10-07T18:23:08.345Z [livraria-api] error DELETE  - Esse produto possui vendas, não é possível excluí-lo!
+2021-10-07T18:23:12.198Z [livraria-api] info GET /livro
+2021-10-07T18:23:22.469Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:26.143Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:28.195Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:30.603Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:33.983Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:36.117Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:38.742Z [livraria-api] info DELETE /livro
+2021-10-07T18:23:42.951Z [livraria-api] info GET /livro
+2021-10-07T18:23:51.224Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-07T18:24:00.438Z [livraria-api] info GET /livro/info
+2021-10-07T18:24:08.744Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:29:58.415Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:31:24.748Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:32:29.701Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:37:50.552Z [livraria-api] info GET /livro/info
+2021-10-07T18:38:01.958Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:38:03.156Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:38:04.487Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:39:01.170Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:40:30.783Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:44:01.941Z [livraria-api] info GET /livro/info
+2021-10-07T18:46:54.221Z [livraria-api] error POST  - Cast to Number failed for value "{ nome: 'João', nota: 5, avaliacao: 'descrição da Avaliacao' }" (type Object) at path "livroId" for model "LivroInfo"
+2021-10-07T18:48:18.520Z [livraria-api] error POST  - LivroService.createAvaliacoes(...).toArray is not a function
+2021-10-07T18:48:20.300Z [livraria-api] error POST  - LivroService.createAvaliacoes(...).toArray is not a function
+2021-10-07T18:49:05.978Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:49:26.602Z [livraria-api] info GET /livro
+2021-10-07T18:49:26.651Z [livraria-api] info GET /livro/info
+2021-10-07T18:49:31.739Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:49:32.858Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:50:41.200Z [livraria-api] error POST  - Cannot read property 'Avaliacoes' of undefined
+2021-10-07T18:54:11.135Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T18:57:35.752Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-07T19:01:17.068Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-08T12:34:37.005Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-08T12:36:24.986Z [livraria-api] error POST  - Cannot read property 'avaliacoes' of undefined
+2021-10-08T12:38:25.475Z [livraria-api] info POST /livro/avaliacao/
+2021-10-08T13:10:17.046Z [livraria-api] info GET /cliente
+2021-10-08T13:37:51.395Z [livraria-api] info GET /cliente
+2021-10-08T13:38:12.378Z [livraria-api] info POST /livro/avaliacao/
+2021-10-08T14:02:07.138Z [livraria-api] info GET /venda
+2021-10-08T14:02:20.466Z [livraria-api] info DELETE /venda
+2021-10-08T14:02:23.171Z [livraria-api] info DELETE /venda
+2021-10-08T14:02:26.172Z [livraria-api] info DELETE /venda
+2021-10-08T14:02:27.625Z [livraria-api] info GET /venda
+2021-10-08T14:02:37.644Z [livraria-api] info GET /livro
+2021-10-08T14:02:47.439Z [livraria-api] info DELETE /livro
+2021-10-08T14:02:50.455Z [livraria-api] info DELETE /livro
+2021-10-08T14:02:57.889Z [livraria-api] info GET /livro/info
+2021-10-08T14:03:08.630Z [livraria-api] error DELETE  - update or delete on table "autores" violates foreign key constraint "fk_autores" on table "livros"
+2021-10-08T14:03:17.521Z [livraria-api] info GET /autor
+2021-10-08T14:04:01.427Z [livraria-api] info GET /livro
+2021-10-08T14:04:09.706Z [livraria-api] info DELETE /livro
+2021-10-08T14:04:11.279Z [livraria-api] info GET /livro
+2021-10-08T14:04:14.847Z [livraria-api] info GET /livro/info
+2021-10-08T14:04:17.831Z [livraria-api] info DELETE /autor
+2021-10-08T14:04:20.696Z [livraria-api] info GET /autor
+2021-10-08T14:04:25.220Z [livraria-api] info DELETE /autor
+2021-10-08T14:04:28.237Z [livraria-api] info GET /cliente
+2021-10-08T14:04:33.976Z [livraria-api] info DELETE /cliente
+2021-10-08T14:04:36.989Z [livraria-api] info DELETE /cliente
+2021-10-08T14:04:41.487Z [livraria-api] info GET /cliente
+2021-10-08T14:20:05.948Z [livraria-api] info GET /venda
+2021-10-08T14:20:44.766Z [livraria-api] info GET /venda
+2021-10-08T14:22:40.188Z [livraria-api] info GET /venda
+2021-10-08T14:22:45.449Z [livraria-api] info GET /venda
+2021-10-08T14:23:03.468Z [livraria-api] info GET /venda
+2021-10-08T14:24:51.760Z [livraria-api] info GET /cliente
+2021-10-08T14:25:25.230Z [livraria-api] info GET /cliente
+2021-10-08T14:27:43.768Z [livraria-api] info GET /venda
+2021-10-08T14:30:19.923Z [livraria-api] info GET /venda
+2021-10-08T14:30:36.351Z [livraria-api] info GET /venda
+2021-10-08T14:30:47.753Z [livraria-api] info GET /venda
+2021-10-08T14:31:08.309Z [livraria-api] info GET /venda
+2021-10-08T14:32:55.718Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:32:57.403Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:33:26.242Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:33:27.412Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:40.464Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:41.478Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:42.071Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:42.579Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:42.824Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:43.157Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:43.804Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:44.479Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:44.923Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:35:49.471Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:37.411Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:38.181Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:38.637Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:38.827Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:39.028Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:39.256Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:39.495Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:42.121Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:42.716Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:42.900Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:37:43.085Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:38:13.009Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T14:38:13.888Z [livraria-api] error GET  - clienteId is not defined
+2021-10-08T15:12:06.025Z [livraria-api] info GET /venda
+2021-10-08T15:13:31.574Z [livraria-api] info GET /autor
+2021-10-08T15:13:33.628Z [livraria-api] info GET /cliente
+2021-10-08T15:14:16.258Z [livraria-api] error POST  - Unexpected token “ in JSON at position 1
+2021-10-08T15:16:01.939Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:24.670Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:25.626Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:26.273Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:26.786Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:27.008Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:27.209Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:16:38.759Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:17:08.996Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:17:30.192Z [livraria-api] error POST  - Unexpected token “ in JSON at position 3
+2021-10-08T15:18:02.257Z [livraria-api] error POST  - Cannot set headers after they are sent to the client
+2021-10-08T15:18:10.963Z [livraria-api] info GET /venda
+2021-10-08T15:21:53.066Z [livraria-api] info GET /venda
+2021-10-08T15:24:32.885Z [livraria-api] info GET /venda
+2021-10-08T15:26:16.177Z [livraria-api] info GET /cliente
+2021-10-08T15:27:00.597Z [livraria-api] info GET /livro
+2021-10-08T15:27:41.925Z [livraria-api] error GET  - invalid input syntax for type integer: "autorId=1"
+2021-10-08T15:27:50.871Z [livraria-api] info GET /livro
+2021-10-08T15:28:26.669Z [livraria-api] info GET /livro
+2021-10-14T14:06:01.992Z [livraria-api] info GET /cliente
+2021-10-14T14:06:15.228Z [livraria-api] info GET /cliente
+2021-10-14T14:06:47.261Z [livraria-api] info GET /cliente
+2021-10-14T14:09:22.114Z [livraria-api] error GET  - Cannot set headers after they are sent to the client
+2021-10-14T14:10:17.195Z [livraria-api] error GET  - Cannot set headers after they are sent to the client
+2021-10-14T14:10:17.205Z [livraria-api] error GET  - Cannot set headers after they are sent to the client
+2021-10-14T14:10:32.397Z [livraria-api] info GET /cliente
+2021-10-14T20:14:45.934Z [livraria-api] error GET  - loggers is not defined
+2021-10-14T20:15:22.107Z [livraria-api] error GET /user - UserService.getUsers is not a function
+2021-10-14T20:15:23.624Z [livraria-api] error GET /user - UserService.getUsers is not a function
+2021-10-15T13:06:55.720Z [livraria-api] error GET /user - UserService.getUsers is not a function
+2021-10-15T13:08:15.876Z [livraria-api] error GET /user - UserService.getUsers is not a function
+2021-10-15T16:57:40.370Z [livraria-api] error GET /user - UserService.getUsers is not a function
+2021-10-15T16:59:18.223Z [livraria-api] error GET /user - UserService.getUser is not a function
+2021-10-15T17:02:46.346Z [livraria-api] error GET /user - UserService.getUser is not a function
+2021-10-15T17:05:03.394Z [livraria-api] error POST /user - Invalid username!
+2021-10-15T17:05:47.909Z [livraria-api] error POST /user - UserService.createUser is not a function
+2021-10-15T18:25:57.803Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:26:15.017Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:26:15.885Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:27:08.570Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:27:09.290Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:27:09.745Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:27:09.933Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:27:10.132Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:28:54.505Z [livraria-api] error GET  - authHeader.startWith is not a function
+2021-10-15T18:28:56.230Z [livraria-api] error GET  - authHeader.startWith is not a function
+2021-10-15T18:32:20.091Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:35:59.993Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:36:00.874Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:36:01.799Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:36:02.722Z [livraria-api] error POST /user - User not found!
+2021-10-15T18:36:52.097Z [livraria-api] error GET  - authHeader.startWith is not a function
+2021-10-15T18:37:33.984Z [livraria-api] info GET /cliente
+2021-10-15T18:38:03.026Z [livraria-api] info GET /cliente
+2021-10-15T18:38:49.163Z [livraria-api] info GET /autor
+2021-10-18T12:32:01.280Z [livraria-api] error POST /user - Invalid username!
+2021-10-18T12:37:07.019Z [livraria-api] info GET /cliente
+2021-10-18T12:47:11.564Z [livraria-api] info GET /cliente
+2021-10-18T13:18:14.801Z [livraria-api] info GET /cliente
+2021-10-18T13:27:59.739Z [livraria-api] error GET /user - Cannot read property 'user' of undefined
+2021-10-18T13:28:16.516Z [livraria-api] error GET /user - username is not defined
+2021-10-18T13:28:23.173Z [livraria-api] error GET /user - username is not defined
+2021-10-18T13:28:23.908Z [livraria-api] error GET /user - username is not defined
+2021-10-18T13:28:46.152Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:29:17.187Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:29:17.787Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:29:25.432Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:30:06.870Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:33:39.993Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:33:41.387Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:02.980Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:03.811Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:04.428Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:04.926Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:05.365Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:05.565Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:05.783Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:05.921Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:06.102Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:06.297Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:34:17.929Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:34:26.858Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:35:53.294Z [livraria-api] error POST /user - data and hash arguments required
+2021-10-18T13:35:54.579Z [livraria-api] error POST /user - data and hash arguments required
+2021-10-18T13:36:41.187Z [livraria-api] error POST /user - User not found!
+2021-10-18T13:39:40.570Z [livraria-api] error GET /user - user is not defined
+2021-10-18T13:39:52.315Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:39:54.008Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:39:54.691Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:40:08.084Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:40:28.559Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
+2021-10-18T13:40:40.443Z [livraria-api] error POST /user - User not found!
+2021-10-18T13:58:47.465Z [livraria-api] error POST /user - User not found!
+2021-10-18T13:58:48.872Z [livraria-api] error POST /user - User not found!
+2021-10-18T14:01:32.388Z [livraria-api] error POST /user - mod2Node is not defined
+2021-10-18T14:01:50.654Z [livraria-api] error POST /user - User not found!
+2021-10-18T14:02:33.510Z [livraria-api] info GET /cliente
+2021-10-18T16:56:23.410Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:01:12.502Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:09:35.234Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:09:40.176Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:10:04.528Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:10:31.416Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:10:35.921Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:11:22.198Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:11:22.878Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:11:23.322Z [livraria-api] error POST /user - ENOENT: no such file or directory, open './private.key'
+2021-10-18T17:11:57.239Z [livraria-api] error POST /user - ENOENT: no such file or directory, open '../private.key'
+2021-10-18T17:11:58.143Z [livraria-api] error POST /user - ENOENT: no such file or directory, open '../private.key'
+2021-10-18T17:12:22.518Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:12:44.985Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:12:48.043Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:12:51.625Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:12:52.420Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:13:36.262Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:13:38.922Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:17:23.485Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:17:24.115Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:17:24.313Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:17:24.503Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:18:26.793Z [livraria-api] error POST /user - "algorithms" is not allowed in "options"
+2021-10-18T17:20:10.204Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:20:47.678Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:20:51.307Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:20:52.229Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:21:20.673Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:21:24.510Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:21:25.191Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:21:51.879Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:21:55.192Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:22:16.076Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:22:17.015Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:22:19.841Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:23:45.753Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:23:48.727Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:23:49.701Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:24:37.814Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:24:51.628Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:24:52.422Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:24:52.583Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:26:03.742Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:26:11.151Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:26:12.203Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:26:12.385Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:26:58.067Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:26:59.056Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:27:01.700Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:27:02.401Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:27:02.869Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:28:00.050Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:28:00.612Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:33:23.434Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:33:28.965Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:33:43.791Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:33:45.762Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:33:49.307Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:05.057Z [livraria-api] error POST /user - R$256 is not defined
+2021-10-18T17:34:19.429Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:34:22.614Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:41.279Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:42.550Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:44.423Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:57.654Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:58.224Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:58.393Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:58.566Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:34:58.741Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:35:28.444Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:35:29.567Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:35:29.791Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:35:30.000Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:37:27.784Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:37:31.588Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:37:32.368Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:37:32.559Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:37:32.727Z [livraria-api] error POST /user - "algorithm" must be a valid string enum value
+2021-10-18T17:40:01.591Z [livraria-api] error POST /user - User not found!
+2021-10-18T17:40:19.329Z [livraria-api] info GET /cliente
+2021-10-18T17:43:42.605Z [livraria-api] error GET /user - username is not defined
+2021-10-18T17:46:03.677Z [livraria-api] error GET /user - Cannot read property 'role' of undefined
+2021-10-18T17:46:04.540Z [livraria-api] error GET /user - Cannot read property 'role' of undefined
+2021-10-18T17:46:29.553Z [livraria-api] error GET /user - username is not defined
+2021-10-18T17:46:30.483Z [livraria-api] error GET /user - username is not defined
+2021-10-18T17:50:00.704Z [livraria-api] error GET /user - user is not defined
+2021-10-18T17:50:01.620Z [livraria-api] error GET /user - user is not defined
+2021-10-18T17:50:16.547Z [livraria-api] error GET /user - Cannot read property 'username' of undefined
